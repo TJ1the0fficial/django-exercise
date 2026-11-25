@@ -206,21 +206,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "612e34b8bf534a92",
+  "active": "2d8b80b4f67d657e",
   "lastOpenFiles": [
+    "templates/hello/hello_there.html",
+    "templates/hello/hello.html",
+    "hello/migrations/__pycache__/__init__.cpython-315.pyc",
+    "hello/migrations/__pycache__",
+    "hello/__pycache__/admin.cpython-315.pyc",
+    "hello/__pycache__/models.cpython-315.pyc",
+    "hello/__pycache__/apps.cpython-315.pyc",
+    "templates/hello",
+    "templates",
     "docs/views.py.md",
     "docs/urls.py.md",
     "README.md",
     "docs/views.py 1.md",
     "hello/__pycache__/__init__.cpython-315.pyc",
-    "hello/__pycache__/views.cpython-315.pyc",
-    "hello/__pycache__/urls.cpython-315.pyc",
-    "hello/__pycache__",
-    "web_project/__pycache__/urls.cpython-315.pyc.2329218142736",
-    "web_project/__pycache__/wsgi.cpython-315.pyc",
-    "web_project/__pycache__/urls.cpython-315.pyc",
-    "web_project/__pycache__/__init__.cpython-315.pyc",
-    "web_project/__pycache__/settings.cpython-315.pyc",
-    "web_project/__pycache__"
+    "hello/__pycache__/views.cpython-315.pyc"
   ]
 }

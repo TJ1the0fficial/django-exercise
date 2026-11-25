@@ -13,6 +13,8 @@ from hello import views
 
 urlpatterns = [
     path("", views.home, name="home"),
+    # hello/<name> is added to the URL of the site
+    # <name> is a parameter, so like : http://localhost:8000/hello/Milan
     path("hello/<name>", views.hello_there, name="hello_there")
 ]
 ```
