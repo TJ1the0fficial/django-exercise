@@ -190,8 +190,18 @@
   },
   "active": "2d8b80b4f67d657e",
   "lastOpenFiles": [
+    "hello/__pycache__/__init__.cpython-315.pyc",
+    "hello/__pycache__/views.cpython-315.pyc",
+    "hello/__pycache__/urls.cpython-315.pyc",
+    "hello/__pycache__",
+    "web_project/__pycache__/urls.cpython-315.pyc.2329218142736",
+    "web_project/__pycache__/wsgi.cpython-315.pyc",
+    "web_project/__pycache__/urls.cpython-315.pyc",
+    "web_project/__pycache__/__init__.cpython-315.pyc",
+    "web_project/__pycache__/settings.cpython-315.pyc",
+    "web_project/__pycache__",
+    "web_project/wsgi.py",
     "README.md",
-    "docs/Untitled.md",
-    "docs"
+    "docs/Untitled.md"
   ]
 }
