@@ -10,6 +10,7 @@ Here we make url patterns, that contain [[docs/views.py.md|views]].
 # hello/urls.py
 from django.urls import path
 from hello import views
+from django.shortcuts import render
 
 urlpatterns = [
     path("", views.home, name="home"),
