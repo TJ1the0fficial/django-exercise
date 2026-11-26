@@ -6,7 +6,7 @@
       {
         "id": "2b7f463e5ca7e007",
         "type": "tabs",
-        "dimension": 60.65436241610739,
+        "dimension": 58.38926174496645,
         "children": [
           {
             "id": "2d8b80b4f67d657e",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/settings.py.md",
+                "file": "docs/libraries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "settings.py"
+              "title": "libraries"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "cbfd9bd6736ca2c6",
         "type": "tabs",
-        "dimension": 39.34563758389262,
+        "dimension": 41.61073825503356,
         "children": [
           {
             "id": "612e34b8bf534a92",
@@ -208,8 +208,9 @@
   },
   "active": "2d8b80b4f67d657e",
   "lastOpenFiles": [
-    "docs/views.py.md",
     "docs/urls.py.md",
+    "docs/views.py.md",
+    "docs/libraries.md",
     "docs/settings.py.md",
     "hello/templates/hello/hello_there.html",
     "hello/templates/hello",

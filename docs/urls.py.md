@@ -10,7 +10,6 @@ Here we make url patterns, that contain [[docs/views.py.md|views]].
 # hello/urls.py
 from django.urls import path
 from hello import views
-from django.shortcuts import render
 
 urlpatterns = [
     path("", views.home, name="home"),
@@ -31,3 +30,5 @@ urlpatterns = [
     path('admin/', admin.site.urls)
 ]
 ```
+
+For further information, please check [[libraries#^66bfb9|django.urls]] library explanation.
