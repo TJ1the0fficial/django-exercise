@@ -54,3 +54,28 @@ def hello_there(request, name):
         }
     )
 ```
+
+`staticfiles_urlpatterns from django.contrib.staticfiles.urls`
+>Let's us use static files.
+``` Python
+from django.contrib import admin
+from django.urls import include, path
+from django.contrib.staticfiles.urls import staticfiles_urlpatterns
+
+urlpatterns = [
+    path("", include("hello.urls")),
+    path('admin/', admin.site.urls)
+]
+urlpatterns += staticfiles_urlpatterns()
+```
+>Requires option in settings.py INSTALLED_APPS
+``` Python
+INSTALLED_APPS = [
+    ...,
+    'django.contrib.staticfiles',
+    ...
+]
+```
+
+`django.db.models.Model`
+>[[models|explanation]]

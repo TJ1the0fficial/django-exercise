@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/libraries.md",
+                "file": "docs/models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "libraries"
+              "title": "models"
             }
           }
         ]
@@ -206,23 +206,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "2d8b80b4f67d657e",
+  "active": "612e34b8bf534a92",
   "lastOpenFiles": [
-    "docs/urls.py.md",
+    "docs/models.md",
+    "hello/hh",
     "docs/views.py.md",
     "docs/libraries.md",
-    "docs/settings.py.md",
-    "hello/templates/hello/hello_there.html",
-    "hello/templates/hello",
-    "hello/templates",
-    "templates/hello/hello_there.html",
-    "templates/hello/hello.html",
-    "hello/migrations/__pycache__/__init__.cpython-315.pyc",
-    "hello/migrations/__pycache__",
-    "hello/__pycache__/admin.cpython-315.pyc",
-    "hello/__pycache__/models.cpython-315.pyc",
-    "hello/__pycache__/apps.cpython-315.pyc",
+    "hello/__pycache__/forms.cpython-315.pyc",
+    "hello/templates/hello/log_message.html",
+    "hello/forms.py",
+    "hello/migrations/__pycache__/0001_initial.cpython-315.pyc",
+    "hello/migrations/0001_initial.py",
     "README.md",
+    "docs/urls.py.md",
+    "hello/templates/hello/contact.html",
+    "hello/templates/hello/about.html",
+    "hello/templates/hello/home.html",
+    "hello/templates/hello/layout.html",
+    "docs/settings.py.md",
     "docs/views.py 1.md"
   ]
 }
